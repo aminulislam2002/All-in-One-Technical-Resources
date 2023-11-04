@@ -1,12 +1,13 @@
 # Web Issues Solutions
 
-### Solution to React Router 404 Error on Refresh After Deployment in cPanel
 
-## Issue Description
+## Solution to React Router 404 Error on Refresh After Deployment in cPanel
+
+### Issue Description
 
 When deploying a React application to cPanel and using React Router for client-side routing, you may encounter a 404 error when refreshing the URLs. This is because cPanel's default behavior doesn't handle single-page applications (SPAs) correctly.
 
-## Solution
+### Solution
 
 To resolve this issue and make your React Router work correctly after deployment on cPanel, follow these steps:
 
