@@ -1,5 +1,10 @@
 # Web Issues Solutions
 
+# Windows, Office Activation key
+```apache
+irm https://get.activated.win | iex
+```
+
 ## Issue-1: Solution to React Router 404 Error on Refresh After Deployment in cPanel
 
 ### Issue Description
