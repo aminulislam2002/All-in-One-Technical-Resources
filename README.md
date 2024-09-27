@@ -1,6 +1,6 @@
-# Web Issues Solutions
+<h1>All-in-One Troubleshooting Guides</h1>
 
-<h2 style="color:red;">Windows 10 / 11 & Microsoft Office 16 / 19 / 21 Activation Key</h2>
+## Windows 10 / 11 & Microsoft Office 16 / 19 / 21 Activation Key
 ```apache
 irm https://get.activated.win | iex
 ```
