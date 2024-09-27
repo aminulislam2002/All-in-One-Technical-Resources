@@ -1,6 +1,6 @@
 # Web Issues Solutions
 
-## Windows, Office Activation Key
+## Windows 10 / 11 & Office Activation Key
 ```apache
 irm https://get.activated.win | iex
 ```
