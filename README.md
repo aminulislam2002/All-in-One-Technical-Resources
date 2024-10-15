@@ -32,10 +32,9 @@ irm https://massgrave.dev/ias | iex
 
 #### Step 4: That's all. [Reference](https://massgrave.dev/)
 
-## Internet Download Manager (IDM) Trial Reset File
+## Internet Download Manager (IDM) Trial Reset File [Click Here](./idm-reset/README.md)
 
-[IDM Trial Reset Instructions](./idm-reset/README.md)
-
+## Download Pixie for PC [Click Here](./pixie/README.md)
 
 ## Issue-1: Solution to React Router 404 Error on Refresh After Deployment in cPanel
 

