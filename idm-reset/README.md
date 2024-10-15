@@ -14,7 +14,7 @@ To begin, download the necessary file by clicking the button below:
 
 Once the file is downloaded, follow these steps to unzip it:
 
-- Locate the downloaded zip file in your downloads folder.
+- Locate the downloaded zip file in your Downloads folder.
 - Right-click the file and choose **Extract All...**, or use a tool like **WinRAR** or **7-Zip** to unzip the file.
 
 ### Step 3: Open the IDM Trial Reset Tool
@@ -81,6 +81,18 @@ Once the file is downloaded, follow these steps to unzip it:
 
 8. **Re-enable Active Protection**:
    - After the reset is complete, return to the same settings and turn on all previously disabled protective settings to ensure your system remains secure.
+
+---
+
+## Additional Resources
+
+- Download the **IDM Trial Reset Tool** from [GitHub](https://github.com/J2TEAM/idm-trial-reset).
+- Find a crack for **Internet Download Manager (IDM)** at:
+  - [FileCR](https://filecr.com/windows/internet-download-manager/)
+  - [Softonic](https://internet-download-manager.en.softonic.com/)
+- Access the **IDM Google Chrome extension** from:
+  - [Official Chrome Extension Page](https://www.internetdownloadmanager.com/register/new_faq/chrome_extension.html)
+  - [Internet Download Manager Official Site](https://www.internetdownloadmanager.com/)
 
 ---
 
