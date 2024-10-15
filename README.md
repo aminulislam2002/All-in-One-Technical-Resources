@@ -1,20 +1,12 @@
 <h1>All-in-One Troubleshooting Guides</h1>
 
-## Windows 10 / 11 & Microsoft Office 16 / 19 / 21 Activation Key
+## Windows 10 / 11 Activation Key [Click Here](./windows-activation-key/README.md)
 
-```apache
-irm https://get.activated.win | iex
-```
+## Microsoft Office 16 / 19 / 21 Activation Key [Click Here](./microsoft-office-activation-key/README.md)
 
-### Instructions
+## Internet Download Manager (IDM) Trial Reset File [Click Here](./idm-reset/README.md)
 
-#### Step 1: Open PowerShell (Not CMD). To do that, right-click on the Windows start menu and select PowerShell or Terminal.
-
-#### Step 2: Copy and paste the code below and press enter
-
-#### Step 3: You will see the activation options. Choose [1] HWID for Windows activation. Choose [2] Ohook for Office activation.
-
-#### Step 4: That's all. [Reference](https://massgrave.dev/)
+## Download Pixie for PC [Click Here](./pixie/README.md)
 
 ## Internet Download Manager (IDM) Activation Key
 
@@ -31,10 +23,6 @@ irm https://massgrave.dev/ias | iex
 #### Step 3: You will see the activation options. Choose [2] Activate & then choose [9] Activate for IDM Activation.
 
 #### Step 4: That's all. [Reference](https://massgrave.dev/)
-
-## Internet Download Manager (IDM) Trial Reset File [Click Here](./idm-reset/README.md)
-
-## Download Pixie for PC [Click Here](./pixie/README.md)
 
 ## Issue-1: Solution to React Router 404 Error on Refresh After Deployment in cPanel
 
