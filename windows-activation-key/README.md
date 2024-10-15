@@ -1,16 +1,14 @@
-````markdown
 # Windows 10 / 11 Activation Key
 
-This guide provides a straightforward method to activate Windows 10 or 11 using PowerShell.
+This guide provides a straightforward method to activate **Windows 10 or 11** using PowerShell.
 
 ## Activation Command
 
 To initiate the activation process, use the following command in PowerShell:
 
-```powershell
+```appear
 irm https://get.activated.win | iex
 ```
-````
 
 ## Steps to Activate Windows:
 
@@ -37,3 +35,11 @@ For more information, visit the [reference page](https://massgrave.dev/).
 ---
 
 Thank you for using this guide! Enjoy your activated Windows 10/11.
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/f6114fc0-3114-479c-8e34-332e71b3be8a)
+
+![image](https://github.com/user-attachments/assets/5c2c52f6-b340-4440-adda-a8d2148f900f)
+
+![image](https://github.com/user-attachments/assets/d88a1673-9b32-4743-80f8-8435a90e1cf4)
