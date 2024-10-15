@@ -1,12 +1,12 @@
 <h1>All-in-One Troubleshooting Guides</h1>
 
-## Windows 10 / 11 Activation Key [Click Here](./windows-activation-key/README.md)
+## Windows 10 / 11 Activation Key [Click Here](./main/windows-activation-key/README.md)
 
-## Microsoft Office 16 / 19 / 21 Activation Key [Click Here](./microsoft-office-activation-key/README.md)
+## Microsoft Office 16 / 19 / 21 Activation Key [Click Here](./main/microsoft-office-activation-key/README.md)
 
-## Internet Download Manager (IDM) Trial Reset File [Click Here](./idm-reset/README.md)
+## Internet Download Manager (IDM) Trial Reset File [Click Here](./main/idm-reset/README.md)
 
-## Download Pixie for PC [Click Here](./pixie/README.md)
+## Download Pixie for PC [Click Here](./main/pixie/README.md)
 
 ## Internet Download Manager (IDM) Activation Key
 

@@ -43,3 +43,5 @@ Thank you for using this guide! Enjoy your activated Windows 10/11.
 ![image](https://github.com/user-attachments/assets/5c2c52f6-b340-4440-adda-a8d2148f900f)
 
 ![image](https://github.com/user-attachments/assets/d88a1673-9b32-4743-80f8-8435a90e1cf4)
+
+![image](https://github.com/user-attachments/assets/adfdda79-85e5-4a04-9ff7-f5b3e167e7db)

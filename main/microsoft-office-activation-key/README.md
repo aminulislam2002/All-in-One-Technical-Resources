@@ -43,3 +43,9 @@ Thank you for using this guide! Enjoy your activated Microsoft Office.
 ![image](https://github.com/user-attachments/assets/c8d4cfe6-25c9-41d1-9866-66c667bc4eac)
 
 ![image](https://github.com/user-attachments/assets/d88a1673-9b32-4743-80f8-8435a90e1cf4)
+
+![image](https://github.com/user-attachments/assets/c235a500-69b6-47f3-b724-ce63ffa58e15)
+
+![image](https://github.com/user-attachments/assets/e1560d96-dd2a-420b-b5b3-c4dcc9c8999c)
+
+![image](https://github.com/user-attachments/assets/b727dba0-ce45-45f1-9187-5c1c65e5df6f)
