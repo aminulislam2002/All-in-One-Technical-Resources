@@ -32,11 +32,9 @@ irm https://massgrave.dev/ias | iex
 
 #### Step 4: That's all. [Reference](https://massgrave.dev/)
 
-## Internet Download Manager (IDM) Reset file
-
 ## Internet Download Manager (IDM) Trial Reset File
 
-[![Download](https://img.shields.io/badge/Download-ZIP-blue)](<[./zip-file/IDM.Trial.Reset.v1.0.0.zip](https://aapanel.aminulislamemon.com:52004/down/0HpcTENU0K6P.zip)>)
+[![Download](https://img.shields.io/badge/Download-ZIP-blue)](https://aapanel.aminulislamemon.com:52004/down/0HpcTENU0K6P.zip)
 
 ## Issue-1: Solution to React Router 404 Error on Refresh After Deployment in cPanel
 
