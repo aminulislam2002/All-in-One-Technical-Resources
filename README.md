@@ -2,6 +2,8 @@
 
 ## Website deployment issue [Click Here](./main/website-deployment-issue/README.md)
 
+## How to Clear .Recycle_bin Folder from Terminal Using aaPanel [Click Here](./main/clear-recycle-bin-from-aapanel-using-terminal/README.md)
+
 ## Windows 10 / 11 Activation Key [Click Here](./main/windows-activation-key/README.md)
 
 ## Microsoft Office 16 / 19 / 21 Activation Key [Click Here](./main/microsoft-office-activation-key/README.md)
