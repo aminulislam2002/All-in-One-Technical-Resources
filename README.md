@@ -2,6 +2,8 @@
 
 ## Website deployment issue [Click Here](./main/website-deployment-issue/README.md)
 
+## Deploying a MERN Stack Application to a VPS Using VS Code Remote SSH [Click Here](./main/deploy-sites-using-remote-ssh/README.md)
+
 ## How to Clear .Recycle_bin Folder from Terminal Using aaPanel [Click Here](./main/clear-recycle-bin-from-aapanel-using-terminal/README.md)
 
 ## Windows 10 / 11 Activation Key [Click Here](./main/windows-activation-key/README.md)
